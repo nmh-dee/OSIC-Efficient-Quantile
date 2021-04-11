@@ -1,0 +1,29 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage{goilenh}
+\usepackage{indentfirst}
+\setcounter{secnumdepth}{3}
+\renewcommand{\subparagraph}{\@startsection{subparagraph}{5}{-\baselineskip}{-\baselineskip}{\normalfont}}
+\usepackage{indentfirst}
+\setlength{\parindent}{0.8cm}
+
+\begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{PGS.TS Hà Hoàng Kha}
+\lhead{Đề cương luận văn tốt nghiệp}
+\rfoot{Trang \thepage}
+\input{chapters/firstpage}\newpage\cleardoublepage
+\tableofcontents\newpage\cleardoublepage
+\listoffigures\newpage\cleardoublepage
+%\listoftables\newpage\cleardoublepage
+\input{chapters/extra}\newpage\cleardoublepage
+\input{chapters/chapter1}\newpage\cleardoublepage
+\input{chapters/chapter2}\newpage\cleardoublepage
+\input{chapters/chapter3}\newpage\cleardoublepage
+\input{chapters/chapter4}\newpage\cleardoublepage
+%\input{chapters/chapter5}\newpage\cleardoublepage
+\nocite{*}
+\bibliography{references}{}\newpage\cleardoublepage
+\bibliographystyle{plain}
+
+\end{document}

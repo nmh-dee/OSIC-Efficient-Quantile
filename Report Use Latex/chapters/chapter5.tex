@@ -1,0 +1,24 @@
+\chapter{KẾ HOẠCH THỰC HIỆN}
+Hiện tại, đề cương luận văn bước đầu đã xây dựng được một mô hình đùng để dự đoán tình trạng bệnh xơ phổi của bệnh nhân.\par
+Trong thời gian 4 tháng tiếp theo, nhóm tiến hành xây dựng 1 web-app cho phép người dùng nhập dữ liệu và trả về kết quả dự đoán bệnh. \par
+Kế hoạch được thưc hiện như sau:
+\begin{center}
+\begin{tabular} {|c|c|c|c|c|}
+\hline
+Nội dung & Tháng 2 & Tháng 3 & Tháng 4 & Tháng 5\\
+ 1. Hoàn thiện và đánh giá mô hình dự đoán xơ & & phổiđầu vào & &đầu ra\\
+\hline
+Fully Connected 1 & Dữ liệu bệnh nhân & $(767,8) $ & d1 & $(767,100)$ \\
+\hline
+Fully Connected 2 & d1 & $(767,100)$ & d2 &$(767,100)$ \\
+\hline
+Fully Connected 3 & d2 &$(767,100)$ & p1 &$(767,3)$ \\
+\hline
+Fully Connected 4 & d2 &$(767,100)$ & p2 &$(767,3)$ \\
+\hline
+Lambda & [p1,p2] & [(767,3)(767,3)] & preds & (767,3)\\
+\hline
+\end{tabular}
+\label{tab:train1}
+\end{center}
+ 

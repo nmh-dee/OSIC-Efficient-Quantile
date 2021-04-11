@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{PF2:web}
+British~Lung Foundation.
+\newblock {Idiopathic pulmonary fibrosis statistics}, 2016.
+
+\bibitem{PF:web}
+Pumonary~Fibrosis Foundation.
+\newblock {Pulmonary Fibrosis Overview}, 2019.
+
+\bibitem{efficientnet:2020}
+{Mingxing Tan, Quoc V.Le}.
+\newblock {EfficientNet: Rethinking Model Scaling for Convolutional Neural
+  Networks}.
+\newblock {\em CornellUniversity}, 2020.
+
+\bibitem{mobile:viblo}
+Dat Nguyen.
+\newblock {Separable Convolutions - Toward realtime object detection
+  applications}, 2019.
+
+\bibitem{ntt:2019}
+{Nguyễn Thanh Tuấn}.
+\newblock {\em {Deep Learning cơ bản}}.
+\newblock 2019.
+
+\bibitem{tiep:2017}
+Vũ~Hữu Tiệp.
+\newblock {\em {Machine Learning cơ bản}}.
+\newblock {Nhà Xuất Bản Khoa học \& kỹ thuật}, 2020.
+
+\end{thebibliography}

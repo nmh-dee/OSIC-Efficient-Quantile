@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter.1}{GII THIU \320 T\300I}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Tng quan v bnh x phi}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Bnh x phi l\340 g\354}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{T\354nh trang bnh x phi tr\352n th gii v\340 Vit Nam}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Chn o\341n v\340 iu tri x phi}{section.1.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Muc ti\352u \040t\340i}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Pham vi nghi\352n cu}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Phng ph\341p nghi\352n cu}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{L\335 THUYT V C\301C M\324 H\314NH S DUNG TRONG \320 T\300I}{}% 9
+\BOOKMARK [1][-]{section.2.1}{L\375 thuyt mang n-ron}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Mang n-ron t\355ch chp}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.1}{Ph\351p t\355nh t\355ch chp}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{Ph\351p t\355nh Padding v\340 Stride}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.3}{Convolutional Layer}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.4}{Pooling Layer}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.5}{Fully Connected Layer}{section.2.2}% 16
+\BOOKMARK [1][-]{section.2.3}{Mang Mobilenet}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.4}{Mang EfficientNet}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.4.1}{Gii thiu mang EfficientNet}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.2}{Thu ph\363ng m\364 h\354nh}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.3}{Thu ph\363ng kt hp}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.4}{EfficientNet B0 - EfficientNet B7}{section.2.4}% 22
+\BOOKMARK [1][-]{section.2.5}{M\364 h\354nh Linear Regression}{chapter.2}% 23
+\BOOKMARK [0][-]{chapter.3}{GIAI PH\301P THC HIN M\324 H\314NH D \320O\301N BNH X PHI}{}% 24
+\BOOKMARK [1][-]{section.3.1}{X\342y dng v\340 tin x l\375 tp d liu}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Tp d liu}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.2}{Tin x l\355 anh}{section.3.1}% 27
+\BOOKMARK [1][-]{section.3.2}{X\342y dng m\364 h\354nh d o\341n FVC}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.2.1}{Hun luyn m\364 h\354nh Efficient Net}{section.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.2.2}{Hun luyn m\364 h\354nh Quantile Regression}{section.3.2}% 30
+\BOOKMARK [0][-]{chapter.4}{KT QUA HIN TAI \320AT \320C}{}% 31
+\BOOKMARK [1][-]{section.4.1}{Kt qua \341nh gi\341 tr\352n tp Test}{chapter.4}% 32
