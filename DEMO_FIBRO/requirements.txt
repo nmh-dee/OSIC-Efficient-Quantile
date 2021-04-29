@@ -1,0 +1,14 @@
+tensorflow == 1.14.0
+pydicom
+pylibjpeg
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+gdcm
+scikit-image
+tqdm
+PIL
+IPython
